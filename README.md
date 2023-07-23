@@ -8,7 +8,7 @@ group them, and save the results to an output file.
 ### **Please note that the project files are located in the src/Medawere directory.**
 
 
-![image](https://github.com/mosheLevAri/sentenceAnalyzer/assets/95866297/6acddf40-f3ad-4c19-862c-00d3857ccacf)
+![image](https://github.com/mosheLevAri/sentenceAnalyzer/assets/95866297/b9a11a11-8b74-47a1-a50c-3b83238e57cf)
 
 
 ## Project Structure
