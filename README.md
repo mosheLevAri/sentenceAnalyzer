@@ -47,7 +47,7 @@ The `SentenceGrouper` and `SentenceGroupModel` modules work together to group si
 
 ## Building and Running the Project
 
-To build and run the Medaware application, follow these steps:
+To build and run the application, follow these steps:
 
 1. Ensure you have Java and Docker installed on your system.
 
