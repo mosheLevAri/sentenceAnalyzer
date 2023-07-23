@@ -8,6 +8,8 @@ group them, and save the results to an output file.
 
 The project is organized into the following directories and files:
 
+Please note that the project files are located in the src/Medawere directory.
+
 - **medawere**
     - **data**: Contains the input data file `data.csv`, which contains sentences to be analyzed.
     - **interfaces**: Contains interfaces used for maintainability, Object-Oriented Programming (OOP) principles, scalability, and adherence to SOLID design principles.
