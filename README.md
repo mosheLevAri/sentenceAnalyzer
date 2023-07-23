@@ -4,11 +4,14 @@ The application designed to analyze sentences and group similar sentences based 
 It provides functionalities to read sentences from a file,
 group them, and save the results to an output file.
 
+
+### **Please note that the project files are located in the src/Medawere directory.**
+
+
 ## Project Structure
 
 The project is organized into the following directories and files:
 
-**Please note that the project files are located in the src/Medawere directory.**
 
 - **medawere**
     - **data**: Contains the input data file `data.csv`, which contains sentences to be analyzed.
