@@ -8,6 +8,9 @@ group them, and save the results to an output file.
 ### **Please note that the project files are located in the src/Medawere directory.**
 
 
+![image](https://github.com/mosheLevAri/sentenceAnalyzer/assets/95866297/6acddf40-f3ad-4c19-862c-00d3857ccacf)
+
+
 ## Project Structure
 
 The project is organized into the following directories and files:
