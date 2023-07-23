@@ -1,0 +1,8 @@
+FROM openjdk:latest
+
+COPY out/production/Task2 /tmp
+
+WORKDIR /tmp
+
+CMD java Medaware.src.Main
+
