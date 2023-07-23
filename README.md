@@ -64,10 +64,11 @@ To build and run the application, follow these steps:
 3. Build the Docker image using the provided Dockerfile:
 
    ```bash
-   docker build -t app-name .
+   docker pull moshelevari/medaware:latest
    ```
 4. Run the Docker container and execute the application:
 
    ```bash
-   docker run -it medaware
+    docker run -it --name medaware_container moshelevari/medaware:latest bash
    ```
+5. View Results: You can view the results by inspecting the 'result.txt' file after running the Docker container.The file will contain grouped sentences and the identified changing words for each group.
